@@ -1,4 +1,4 @@
-# FaisalLang
+# FSL
 
 A lightweight Arabic-inspired programming language.
 
